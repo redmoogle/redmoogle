@@ -13,7 +13,6 @@
   <ul>
     <li><a class="link-info" href="https://github.com/redmoogle/Hoom">Hoom</a></li>
     <li><a class="link-info" href="https://github.com/redmoogle/Rednako">Rednako</a></li>
-    <li><a class="link-info" href="https://github.com/yogstation13/Yogstation">Yogstation13</a></li>
    </ul>
 
 <h2> Social</h2>
